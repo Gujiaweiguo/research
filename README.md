@@ -28,6 +28,13 @@
 
 【官方披露】>【企业自述】>【媒体报道】>【待核】；事实只认一手来源；软文不当事实。
 
+## 分发通道（2026-11-19 Jason 定：日报、周报、所有研究文档都推）
+
+| 通道 | 位置 | 覆盖 |
+|---|---|---|
+| GitHub | Gujiaweiguo/research（main，本地经 `git subtree push --prefix=research research main`） | 全部文档 |
+| IMA | 文件夹「商业地产」+ 知识库「商业地产」 | 全部文档 |
+
 ## IMA 分发
 
 - 文件夹「商业地产」+ 知识库「商业地产」（动态查找：list_note_folder_by_cursor / search_knowledge_base）
